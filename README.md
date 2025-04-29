@@ -50,7 +50,7 @@ This repository contains a series of lab exercises for learning and implementing
 
 ---
 
-## 📌 Getting Started
+## Getting Started
 
 1. Clone the repo:
    ```bash
@@ -72,7 +72,7 @@ This repository contains a series of lab exercises for learning and implementing
 
 ---
 
-## 📊 Datasets
+## Datasets
 
 Datasets are either included in the `datasets/` folder or loaded using `sklearn.datasets`. Some examples:
 - Iris
