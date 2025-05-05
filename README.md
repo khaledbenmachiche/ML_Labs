@@ -70,6 +70,10 @@ This repository contains a series of lab exercises for learning and implementing
    jupyter lab
    ```
 
+4. Explore the labs:
+   - Navigate to the respective lab folders (e.g., `Lab01SLQ`, `Lab02SLQ`, etc.).
+   - Open the provided Jupyter Notebooks to follow the exercises and implementations.
+
 ---
 
 ## Datasets
