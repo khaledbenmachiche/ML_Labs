@@ -38,6 +38,22 @@ This repository contains a series of lab exercises for learning and implementing
 - Datasets: Iris, synthetic Circles
 - Tools: Python, scikit-learn, numpy, matplotlib, timeit
 
+### Lab06: Neural Networks and Backpropagation
+- Implementation of activation functions (Logistic, ReLU) and BCE loss
+- Neural network backpropagation from scratch (neuron, layer, network levels)
+- Analysis of parameter initialization, activation functions, and optimization methods
+- Experiments with TensorFlow/Keras
+- Dataset: Diabetes
+- Tools: Python, numpy, pandas, matplotlib, TensorFlow/Keras
+
+### Workshop 03: Advanced Neural Networks
+- Implementation of clustering algorithms with KMeans
+- MLP and CNN-based auto-encoders for dimensionality reduction
+- CNN-based and clustering-based classifiers
+- Generative models: Variational Auto-Encoders (VAE) and Generative Adversarial Networks (GAN)
+- Dataset: Pokemon images
+- Tools: TensorFlow, Keras, scikit-learn, matplotlib, numpy, pandas
+
 ---
 
 ## Tools & Libraries
@@ -47,6 +63,8 @@ This repository contains a series of lab exercises for learning and implementing
 - scikit-learn
 - graphviz (for tree visualization)
 - timeit (for benchmarking)
+- TensorFlow/Keras (for neural networks and deep learning)
+- sklearn.cluster (for clustering algorithms)
 
 ---
 
@@ -70,8 +88,8 @@ This repository contains a series of lab exercises for learning and implementing
    jupyter lab
    ```
 
-4. Explore the labs:
-   - Navigate to the respective lab folders (e.g., `Lab01SLQ`, `Lab02SLQ`, etc.).
+4. Explore the labs and workshops:
+   - Navigate to the respective lab folders (e.g., `Lab01SLQ`, `Lab02SLQ`, etc.) or workshop folders (`ML_WS_ANN_2025`).
    - Open the provided Jupyter Notebooks to follow the exercises and implementations.
 
 ---
@@ -83,16 +101,8 @@ Datasets are either included in the `datasets/` folder or loaded using `sklearn.
 - SMS Spam Collection
 - bodyPerformance
 - Cars
+- Diabetes
+- Pokemon images
 - Synthetic datasets
 
 ---
-
-## Contributions
-
-This project is part of a lab series and is not currently accepting outside contributions. Feel free to fork it for your own learning purposes!
-
----
-
-## License
-
-This project is for educational purposes and does not carry a formal license.
