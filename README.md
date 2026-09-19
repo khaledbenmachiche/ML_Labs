@@ -72,8 +72,8 @@ This repository contains a series of lab exercises for learning and implementing
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/khaledbenmachiche/TPs_ML.git
-   cd TPs_ML
+   git clone https://github.com/khaledbenmachiche/ML_Labs.git
+   cd ML_Labs
    ```
 
 2. Create a virtual environment and install requirements:
